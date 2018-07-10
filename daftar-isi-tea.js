@@ -1,5 +1,16 @@
+/**
+ * BLOGGER TOC WITH ACCORDION EFFECT (SORT BY LABEL)
+ * ---------------------------------------------------
+ * by Taufik Nurrohman
+ * URL: http://gplus.to/tovic
+ * Modified by Arlina Fitriyani
+ * URL: http://gplus.to/arlina
+ * ---------------------------------------------------
+ */
+
+/*
 var toc_config = {
-	url: 'https://congdev.blogspot.com',
+	url: 'http://arlinadesign.blogspot.com',
 	containerId: 'table-of-content',
 	showNew: 15,
 	newText: ' <strong style="font-weight:normal;font-style:normal;color:#fff;font-size:11px;background:#5c5a78;padding:1px 6px 3px 6px;line-height:normal;float:right;border-radius:3px;">baru</strong>',
