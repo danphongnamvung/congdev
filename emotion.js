@@ -17,7 +17,7 @@ theText = theText.replace(/:-ss/gi, "<img src='http://lh4.ggpht.com/_u7a1IFxc4WI
 theText = theText.replace(/b-\(/gi, "<img src='http://lh6.ggpht.com/_u7a1IFxc4WI/TM-vzrqI4MI/AAAAAAAAATk/BhfFnT0Gbro/66.gif'/>");
 theText = theText.replace(/@-\)/gi, "<img src='http://lh6.ggpht.com/_u7a1IFxc4WI/TM-vziH8NXI/AAAAAAAAATg/2evEbN2cJwc/43.gif'/>");
 theText = theText.replace(/=\)\)/gi, "<img src='http://lh6.ggpht.com/_u7a1IFxc4WI/TM-vuJ1G41I/AAAAAAAAATM/_jLHXvz6PTg/24.gif'/>");
-theText = theText.replace(/:\3/gi, "<img src='https://lh4.googleusercontent.com/_9-sNIAfGhKg/TXyK41uQ_ZI/AAAAAAAAAIo/WFnc77M2sww/38.gif'/>");
+theText = theText.replace(/:3/gi, "<img src='https://lh4.googleusercontent.com/_9-sNIAfGhKg/TXyK41uQ_ZI/AAAAAAAAAIo/WFnc77M2sww/38.gif'/>");
 bodyText.innerHTML = theText;
 }replaceText();
 //]]>
