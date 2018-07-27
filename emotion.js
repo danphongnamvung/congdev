@@ -45,5 +45,5 @@ theText = theText.replace(/:O\)/g,'<img src="http://lh6.googleusercontent.com/-f
 theText = theText.replace(/:P\)/g,'<img src="http://lh6.googleusercontent.com/-yLDJ0T3p65E/TW3rs-cFoAI/AAAAAAAAAJ0/aa8YOxeo3oc/s1600/datbomb.gif" />');
                        
 bodyText.innerHTML = theText;
-}replaceText();
+}
 //]]>
