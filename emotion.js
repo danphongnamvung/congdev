@@ -31,10 +31,7 @@ theText = theText.replace(/\(s\m\)/gi, "<img src='http://2.bp.blogspot.com/--um8
 theText = theText.replace(/\(f\u\)/gi, "<img src='http://2.bp.blogspot.com/-CsrNdkKmI-0/UMRCooHXvwI/AAAAAAAAD-c/oGIiNzrSBa0/s1600/34-namkna-blogspot-com.gif'/>");
 theText = theText.replace(/\(k\u\)/gi, "<img src='http://2.bp.blogspot.com/-YfV02_JhzWk/UMRC0Kbny5I/AAAAAAAAD-k/CQhJQDN-x7Q/s1600/35-namkna-blogspot-com.gif'/>");
 theText = theText.replace(/\(b\g\)/gi, "<img src='http://3.bp.blogspot.com/-zfW0Ak0kC_E/UMRDDDhza8I/AAAAAAAAD-s/uhAufPRNdW0/s1600/36-namkna-blogspot-com.gif'/>");
-theText = theText.replace(/\(l\o\l\)/gi, "<img src='http://2.bp.blogspot.com/-ydXWgF_L_30/UMRDQcXXtcI/AAAAAAAAD-0/oB6YMm_3e1A/s1600/37-namkna-blogspot-com.gif'/>");                       
-                       
-                       
-                       
+theText = theText.replace(/\(l\o\l\)/gi, "<img src='http://2.bp.blogspot.com/-ydXWgF_L_30/UMRDQcXXtcI/AAAAAAAAD-0/oB6YMm_3e1A/s1600/37-namkna-blogspot-com.gif'/>");                                          
 bodyText.innerHTML = theText;
 }replaceText();
 //]]>
