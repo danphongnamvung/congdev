@@ -17,7 +17,7 @@ theText = theText.replace(/:-ss/gi, "<img src='http://lh4.ggpht.com/_u7a1IFxc4WI
 theText = theText.replace(/b-\(/gi, "<img src='http://lh6.ggpht.com/_u7a1IFxc4WI/TM-vzrqI4MI/AAAAAAAAATk/BhfFnT0Gbro/66.gif'/>");
 theText = theText.replace(/@-\)/gi, "<img src='http://lh6.ggpht.com/_u7a1IFxc4WI/TM-vziH8NXI/AAAAAAAAATg/2evEbN2cJwc/43.gif'/>");
 theText = theText.replace(/=\)\)/gi, "<img src='http://lh6.ggpht.com/_u7a1IFxc4WI/TM-vuJ1G41I/AAAAAAAAATM/_jLHXvz6PTg/24.gif'/>");
-theText = theText.replace(/:-#/gi, "<img src='http://4.bp.blogspot.com/-MWLMGQAIVyQ/UMRAKgWV_OI/AAAAAAAAD9E/cYYzvQN3kUM/s1600/23-namkna-blogspot-com.gif'/>");
+theText = theText.replace(/:-#/gi, "<img src='https://4.bp.blogspot.com/-MWLMGQAIVyQ/UMRAKgWV_OI/AAAAAAAAD9E/cYYzvQN3kUM/s1600/23-namkna-blogspot-com.gif'/>");
 theText = theText.replace(/=p~/gi, "<img src='http://4.bp.blogspot.com/-3sKMTsRdxQ0/UMRAaM0CL1I/AAAAAAAAD9M/B2QnlpkEDO4/s1600/24-namkna-blogspot-com.gif'/>");
 theText = theText.replace(/\$-\)/gi, "<img src='http://4.bp.blogspot.com/-I15O1_bJVME/UMRAqfh17HI/AAAAAAAAD9U/pV1uktTYu50/s1600/25-namkna-blogspot-com.gif'/>");
 theText = theText.replace(/\(b\)/gi, "<img src='http://1.bp.blogspot.com/-fPRBbN354Sc/UMRA4rraSMI/AAAAAAAAD9c/l53RDPhh_FU/s1600/26-namkna-blogspot-com.gif'/>");
