@@ -99,4 +99,6 @@ $(document).ready(function() {
 $('.fancy')
 .fancybox({padding: 5, openEffect : 'elastic', openSpeed  : 400, closeEffect : 'elastic', closeSpeed  : 400, closeClick : true, helpers : {overlay : null}});
 });
+function openup_parseHTML() { window.open(&quot;http://namkna.blogspot.com/p/code-convert-for-blogspot-chuyen-doi.html&quot;, &quot;followblog&quot;, &quot;height=700, width=630, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no&quot; ); }
+
 //]]>
