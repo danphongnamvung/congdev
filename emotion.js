@@ -1,7 +1,7 @@
 
 //<![CDATA[
 function replaceText(){if(!document.getElementById){return;}
-bodyText = document.getElementById("emocomments");
+bodyText = document.getElementById("comment-holder");
 theText = bodyText.innerHTML;
 theText = theText.replace(/:\)\)/gi, "<img src='http://lh4.ggpht.com/_u7a1IFxc4WI/TM-vt_XVZKI/AAAAAAAAATI/Q35_W0anT6A/21.gif'/>");
 theText = theText.replace(/=d&gt;/gi, "<img src='http://lh6.ggpht.com/_u7a1IFxc4WI/TM-vzUt1yQI/AAAAAAAAATY/QHNvnj0gYbU/41.gif'/>");
