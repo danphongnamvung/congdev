@@ -30,6 +30,15 @@ theText = theText.replace(/=hd/gi, "<img class='bacsiwindows_emoticon' src='http
 theText = theText.replace(/=j/gi, "<img class='bacsiwindows_emoticon' src='https://2.bp.blogspot.com/-stw6F8kZNiE/WkCA7Os3mrI/AAAAAAAAAfw/KQoQne-BMG8g6GKBDrrXKoZ2MOw4r5KJgCLcBGAs/s30/hand-down-_-------BacSiWindows-Com.png'/>");
 theText = theText.replace(/=clap/gi, "<img class='bacsiwindows_emoticon' src='https://1.bp.blogspot.com/-VS_QRnD_yA4/W127rESQjKI/AAAAAAAAATY/jx_fAY-rHfIPiyJ0bt2yuVaqQLu-qeMFwCLcBGAs/s1600/24.gif'/>");
 theText = theText.replace(/=he/gi, "<img class='bacsiwindows_emoticon' src='https://4.bp.blogspot.com/-9lVo59VvOuo/W127_XAnQtI/AAAAAAAAATg/-rTZ-uZAOaorCHjbdwc2tk7MOkQbpAwYgCLcBGAs/s1600/25.gif'/>");
+theText = theText.replace(/:-t/gi, "<img class='bacsiwindows_emoticon' src='https://lh3.ggpht.com/_u7a1IFxc4WI/TM-vz4hwcNI/AAAAAAAAATo/4ySXuvQWma8/104.gif'/>");
+theText = theText.replace(/=D&gt;/gi, "<img class='bacsiwindows_emoticon' src='https://lh6.ggpht.com/_u7a1IFxc4WI/TM-vzUt1yQI/AAAAAAAAATY/QHNvnj0gYbU/41.gif'/>");
+theText = theText.replace(/:-O/gi, "<img class='bacsiwindows_emoticon' src='https://lh6.ggpht.com/_u7a1IFxc4WI/TM-vpLiW1GI/AAAAAAAAATA/fPyPJcBks7s/13.gif'/>");
+theText = theText.replace(/:-\?/gi, "<img class='bacsiwindows_emoticon' src='http://lh5.ggpht.com/-G1qCwznMyxE/TdDxPaVEGnI/AAAAAAAAAAA/ctxe8lTxiJk/s512/39.gif'/>");
+theText = theText.replace(/:-SS/gi, "<img class='bacsiwindows_emoticon' src='https://lh4.ggpht.com/_u7a1IFxc4WI/TM-vzUOH79I/AAAAAAAAATc/oNE5H5vcNtI/42.gif'/>");
+theText = theText.replace(/&gt;\[-\( /gi, "<img class='bacsiwindows_emoticon' src='https://lh6.ggpht.com/_u7a1IFxc4WI/TM-vuMg6RQI/AAAAAAAAATQ/rWj7euuKOZs/33.gif'/>");
+theText = theText.replace(/@-\)/gi, "<img class='bacsiwindows_emoticon' src='https://lh6.ggpht.com/_u7a1IFxc4WI/TM-vziH8NXI/AAAAAAAAATg/2evEbN2cJwc/43.gif'/>");
+theText = theText.replace(/b-\(/gi, "<img class='bacsiwindows_emoticon' src='https://lh6.ggpht.com/_u7a1IFxc4WI/TM-vzrqI4MI/AAAAAAAAATk/BhfFnT0Gbro/66.gif'/>");
+theText = theText.replace(/=\]\]/gi, "<img class='bacsiwindows_emoticon' src='https://lh6.googleusercontent.com/_9-sNIAfGhKg/TXxpmRhMeEI/AAAAAAAAAHA/5IO87j6jqp8/45.gif'/>");
 bodyText.innerHTML = theText;
 }replaceText();
 //]]>
