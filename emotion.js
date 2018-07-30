@@ -1,11 +1,3 @@
-/**
- * BLOGGER COMMENT EMOTICON BY CONG DEV
- * ---------------------------------------------------
- * by Cong DEV
- * URL: http://congdev.blogspot.com
- * ---------------------------------------------------
- */
-
 
 //<![CDATA[
 function replaceText(){if(!document.getElementById){return;}
