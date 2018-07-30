@@ -3,7 +3,7 @@ function replaceText(){if(!document.getElementById){return;}
 bodyText = document.getElementById("comments");
 theText = bodyText.innerHTML;
 theText = theText.replace(/=r/gi, "<img class='bacsiwindows_emoticon' src='https://3.bp.blogspot.com/-hUrsT5QOvM8/W12rDsQKlmI/AAAAAAAAAQA/aMasSP9c8fEU7IWah7zZlhehiUKFnUrUACLcBGAs/s1600/1.gif'/>");
-theText = theText.replace(/:\)\)/gi, "<img class='bacsiwindows_emoticon' src='https://4.bp.blogspot.com/-tk0Z-himvSo/W12zOiwxWgI/AAAAAAAAAQ4/HcGvmiE7MiIUy7NHV-j6W_loXlX_I8WiACLcBGAs/s1600/2.gif'/>");
+theText = theText.replace(/:\)\)/gi, "<img class='bacsiwindows_emoticon' src='https://lh4.ggpht.com/_u7a1IFxc4WI/TM-vt_XVZKI/AAAAAAAAATI/Q35_W0anT6A/21.gif'/>");
 theText = theText.replace(/;\)/gi, "<img class='bacsiwindows_emoticon' src='https://4.bp.blogspot.com/-UEHhsziuqgc/W12sBqBIFsI/AAAAAAAAAQU/5Li8BHrGyP8feDtsjImGwownKnySwN8KgCLcBGAs/s1600/3.gif'/>");
 theText = theText.replace(/=\)\)/gi, "<img class='bacsiwindows_emoticon' src='https://1.bp.blogspot.com/-o8NlvVSY6hY/W12sgoRH_DI/AAAAAAAAAQc/FjiTt3jzbucvEGDBQae2d5H7_A6a-31RwCLcBGAs/s1600/4.gif'/>");
 theText = theText.replace(/:\(\(/gi, "<img class='bacsiwindows_emoticon' src='https://3.bp.blogspot.com/-IT3JmclEayA/W12s2TNaMsI/AAAAAAAAAQk/qOjpjs7V3DYYP_F_KyRqtYKi2u23wkmzACLcBGAs/s1600/5.gif'/>");
