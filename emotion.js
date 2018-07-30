@@ -6,7 +6,7 @@
  * ---------------------------------------------------
  */
 
-/*
+
 //<![CDATA[
 function replaceText(){if(!document.getElementById){return;}
 bodyText = document.getElementById("emocomments");
